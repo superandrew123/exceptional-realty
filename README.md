@@ -1,3 +1,10 @@
-Exceptional Realty website
-this is an example site for intro to frontend web development course at flatiron school.
-andrew.miksch@flatiron.com
+Exceptional Realty Group Website
+---
+
+# Description
+
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+
+# Contact
+
+email: jon@flatironschool.com
